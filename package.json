@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "mongodb": "^2.2.12",
+    "mongoose": "^8.0.3",
+    "multer": "^1.4.5-lts.1"
+  }
+}
